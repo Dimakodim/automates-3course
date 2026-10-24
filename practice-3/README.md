@@ -117,7 +117,19 @@ $$C→cC∣c$$
 
 ![](media/Screenshot_9.png)
 
-### 5.2. Тестирование КСГ (Multiple Brute Force Parse)
+### 5.2. Тестирование КСГ (Brute Force Parse)
+
+Тестирование выполнено через модуль **Input $\to$ Brute Force Parse** для нескольких цепочек:
+
+Цепочка $aabbccc$:
+
+![](media/Screenshot_11.png)
+
+Цепочка $abccc$:
+
+![](media/Screenshot_12.png)
+
+### 5.3. Тестирование КСГ (Multiple Brute Force Parse)
 
 Тестирование выполнено через модуль **Input $\to$ Multiple Brute Force Parse**:
 
